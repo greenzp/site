@@ -1,0 +1,32 @@
+﻿body{
+background-color:#CCCCCC;
+background-image:url('../foto/foto.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+padding:0;
+margin:10px 0;
+}
+#cop{
+width:500px;
+text-align:center;
+margin:auto auto;
+}
+
+
+h1 {
+color:#c0c0f0;
+font: normal small-caps 60px "Time new romans";
+border: 6px dashed #6495ED;
+border-radius: 25px;
+text-shadow: -3px -3px 3px #FCF;
+}
+
+
+p {
+color:#FFFFFF;
+font: normal 25px "Time new romans";
+padding: 15px 15px;
+text-indent: 25px;
+text-shadow: 3px 1.5px 0.5px #000;
+}
